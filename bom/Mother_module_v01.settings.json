@@ -1,0 +1,36 @@
+{
+    "type": "InteractiveHtmlBom settings",
+    "version": 1,
+    "pcbmetadata": {
+        "date": "2021-04-10 20:01:40",
+        "company": "",
+        "title": "Mother_module",
+        "revision": ""
+    },
+    "settings": {
+        "canvaslayout": "FB",
+        "bomlayout": "left-right",
+        "bommode": "grouped",
+        "checkboxes": [
+            "Sourced",
+            "Placed"
+        ],
+        "checkboxStoredRefs": {
+            "Sourced": "",
+            "Placed": ""
+        },
+        "darkMode": false,
+        "highlightpin1": false,
+        "redrawOnDrag": true,
+        "boardRotation": 0,
+        "renderPads": true,
+        "renderReferences": true,
+        "renderValues": true,
+        "renderSilkscreen": true,
+        "renderFabrication": false,
+        "renderDnpOutline": false,
+        "renderTracks": false,
+        "renderZones": false,
+        "darkenWhenChecked": ""
+    }
+}
